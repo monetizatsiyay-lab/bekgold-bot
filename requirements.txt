@@ -5,3 +5,4 @@ pytesseract
 numpy
 opencv-python
 python-dateutil
+
