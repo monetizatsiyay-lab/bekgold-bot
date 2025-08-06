@@ -1,0 +1,7 @@
+telebot
+MetaTrader5
+Pillow
+pytesseract
+numpy
+opencv-python
+python-dateutil
